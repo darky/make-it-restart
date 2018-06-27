@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/anuoua/make-it-restart#readme",
   "devDependencies": {
+    "@types/mocha": "^5.2.3",
+    "@types/node": "^10.5.0",
+    "@types/power-assert": "^1.5.0",
     "intelli-espower-loader": "^1.0.1",
     "mocha": "^5.2.0",
     "power-assert": "^1.6.0"
