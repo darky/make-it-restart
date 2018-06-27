@@ -2,6 +2,12 @@
 
 Make command or app restart. e.g. make electron/webpack... restart.
 
+## cli usage
+
+```bash
+make-it-restart webpack -w
+```
+
 ## usage
 
 install
