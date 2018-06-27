@@ -8,6 +8,8 @@ Make command or app restart. e.g. make electron/webpack... restart.
 make-it-restart webpack -w
 ```
 
+For restarting, type to stdin `rs` and press enter...
+
 ## usage
 
 install
