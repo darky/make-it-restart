@@ -3,6 +3,9 @@
   "version": "2.0.2",
   "description": "restart script node javascript",
   "main": "index.js",
+  "bin": {
+    "make-it-restart": "./bin/cli.js"
+  },
   "scripts": {
     "test": "mocha -r intelli-espower-loader ./test/index.spec.js"
   },
