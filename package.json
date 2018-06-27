@@ -22,11 +22,11 @@
   "homepage": "https://github.com/anuoua/make-it-restart#readme",
   "devDependencies": {
     "intelli-espower-loader": "^1.0.1",
-    "mocha": "^4.0.1",
-    "power-assert": "^1.4.4"
+    "mocha": "^5.2.0",
+    "power-assert": "^1.6.0"
   },
   "dependencies": {
-    "spawn-run": "0.0.4",
-    "tree-kill": "^1.1.0"
+    "spawn-run": "0.0.6",
+    "tree-kill": "^1.2.0"
   }
 }
